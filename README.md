@@ -13,8 +13,8 @@ This project is a web application for managing patient listings, built with Svel
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/patient-listing-app.git
-    cd patient-listing-app
+    git clone https://github.com/vipinsanthosh/patient-list-fhir-tech-round.git
+    cd patient-list-fhir-tech-round
     ```
 
 2. Install dependencies:
