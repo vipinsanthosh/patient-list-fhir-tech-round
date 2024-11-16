@@ -1,6 +1,5 @@
 import axios from "axios";
-
-export const fhirBaseUrl = "REPLACE_WITH_YOUR_FHIR_SERVER_URL";
+import { fhirBaseUrl } from "./env";
 
 export const fhirApi = axios.create({
 	baseURL: fhirBaseUrl,
