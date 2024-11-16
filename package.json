@@ -24,7 +24,6 @@
 	},
 	"dependencies": {
 		"@types/fhir": "^0.0.41",
-		"axios": "^1.7.7",
 		"clsx": "^2.1.0",
 		"lodash.debounce": "^4.0.8",
 		"svelte-routing": "^2.12.0"

@@ -1,1 +1,1 @@
-export const fhirBaseUrl = "https://fhir-bootcamp.medblocks.com/fhir";
+export const fhirBaseUrl = "REPLACE_WITH_YOUR_FHIR_SERVER_URL";
