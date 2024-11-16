@@ -1,6 +1,7 @@
 <script lang="ts">
 	import PatientForm from "./PatientForm.svelte";
 	import { Router, Link, Route } from "svelte-routing";
+	import PatientList from "./PatientList.svelte";
 </script>
 
 <Router>

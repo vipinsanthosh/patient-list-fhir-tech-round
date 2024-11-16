@@ -64,7 +64,7 @@
 		<p class="py-2 hover:bg-gray-200 px-1 cursor-pointer">
 			<a href={`/patient/${patient?.resource?.id}`}>
 				{patient?.resource?.name?.[0]?.given?.[0]} - {patient?.resource
-					?.gender || ""} - {patient?.resource?.birthDate || ""}
+					?.birthDate || ""}
 			</a>
 		</p>
 	{/each}
